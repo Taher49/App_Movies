@@ -5,7 +5,7 @@
 body {
   margin: 0;
   color: white;
-  background-color: white;
+  background-color: #22254b;
   font-family: "Poppins", sans-serif;
 
 }
@@ -26,7 +26,7 @@ body {
 .search{
   border: 2px solid #22254b;
   border-radius: 50px;
-  background-color: transparent;
+  background-color: #22254b;
   font-family: inherit;
   font-size: 1.2rem;
   color: white;
